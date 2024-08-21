@@ -15,7 +15,7 @@
   <h4 align='center'>
   </h4>
   <div align='center'>
-    <a href="https://www.linkedin.com/in/julia-lereb%C3%A4ck-corell/">
+    <a href="https://se.linkedin.com/in/anton-haglund-68a089262">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
            alt="Anton Haglund's LinkedIn profile"/>
     </a>
