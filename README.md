@@ -8,7 +8,7 @@ I'm a **Java Fullstack Developer** with a passion for building practical, user-f
 ## About Me
 - 🎓 I graduated in **Summer 2024** with a degree in **Fullstack Development**.
 - 🧑‍💻 **Junior Developer** passionate about building practical, user-friendly applications.
-- 💻 **Tech Stack**: Java, Kotlin, TypeScript, MySQL, React, JavaScript, Docker, Git
+- 💻 **Tech Stack**: Java, Kotlin, TypeScript, MySQL, MongoDB, React, JavaScript, Docker, Git
 - 🚀 Currently building a **fullstack e-commerce website** using **Next.js**, **TypeScript**, and **MongoDB**.
 - 💬 I’m always happy to collaborate or help with **open-source** contributions.
 - 🎯 Looking for a **full-time developer** position and **freelance opportunities**.
@@ -43,7 +43,6 @@ I'm a **Java Fullstack Developer** with a passion for building practical, user-f
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/anton-haglund-68a089262)
-- [GitHub](https://github.com/Anton20HD)
 
 ---
 
