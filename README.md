@@ -1,6 +1,6 @@
 # Hello, I'm Anton! 👋
 
-I'm a **Java Fullstack Developer** with a passion for building practical, user-friendly applications. I recently graduated and am excited to dive into new challenges and grow as a developer.
+I'm a **Fullstack Developer** with a passion for building practical, user-friendly applications. I recently graduated and am excited to dive into new challenges and grow as a developer.
 
 🚀 I am always looking for opportunities to work on exciting projects that push my skills further!
 
