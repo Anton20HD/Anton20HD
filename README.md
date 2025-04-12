@@ -9,7 +9,7 @@ I'm a **Fullstack Developer** with a passion for building practical, user-friend
 - 🎓 I graduated in **Summer 2024** with a degree in **Fullstack Development**.
 - 🧑‍💻 **Junior Developer** passionate about building practical, user-friendly applications.
 - 💻 **Tech Stack**: Java, Kotlin, TypeScript, MySQL, MongoDB, React, JavaScript, Docker, Git
-- 🚀 Currently building a **fullstack e-commerce website** using **Next.js**, **TypeScript**, and **MongoDB**.
+- 🚀 Currently building a **Personal Finance App** using **Java**, **Spring Boot**, and **MongoDB**.
 - 💬 I’m always happy to collaborate or help with **open-source** contributions.
 - 🎯 Looking for a **full-time developer** position and **freelance opportunities**.
 
