@@ -11,7 +11,6 @@ I'm a **Fullstack Developer** with a passion for building practical, user-friend
 - 💻 **Tech Stack**: Java, Kotlin, TypeScript, MySQL, MongoDB, React, JavaScript, Docker, Git
 - 🚀 Currently building a **Personal Finance App** using **Java**, **Spring Boot**, and **MongoDB**.
 - 💬 I’m always happy to collaborate or help with **open-source** contributions.
-- 🎯 Looking for a **full-time developer** position and **freelance opportunities**.
 
 ## GitHub Stats
 
